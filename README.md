@@ -43,6 +43,11 @@ Please make sure to update tests as appropriate.
 
 
 <img src="database/ER.png">
+<img width="1822" height="896" alt="Image" src="https://github.com/user-attachments/assets/b8331a3e-2f9b-4ed5-a93c-840cf753e63a" />
+
+<img width="1347" height="892" alt="Image" src="https://github.com/user-attachments/assets/f1b50be4-8f4d-4e21-93e2-d1bfe99ffd0a" />
+<img width="1772" height="897" alt="Image" src="https://github.com/user-attachments/assets/311b6c71-8995-4eac-8320-d99938deb743" />
+<img width="1830" height="912" alt="Image" src="https://github.com/user-attachments/assets/ed8cb5d9-9570-4d2e-9514-53888beed588" />
 
 
 
